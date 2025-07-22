@@ -11,4 +11,4 @@ npm install
 npm start
 ```
 
-Site-Link:
+Site-Link:https://travel-journal-eight-rho.vercel.app/
